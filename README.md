@@ -1,6 +1,6 @@
-0x11. C - printf team project
+# 0x11. C - printf team project
 
-by Collins & Josphat
+## by Collins & Josphat
 
 Group Project:                                                                      
                                                                                     
